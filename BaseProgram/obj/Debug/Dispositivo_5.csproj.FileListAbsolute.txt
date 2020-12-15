@@ -1,0 +1,14 @@
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\bin\Debug\Dispositivo_5.exe.config
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\bin\Debug\Dispositivo_5.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\bin\Debug\Dispositivo_5.pdb
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\bin\Debug\ModBusLib.dll
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\obj\Debug\ResolveAssemblyReference.cache
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\obj\Debug\Dispositivo_5.Login.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\obj\Debug\Dispositivo_5.MenuPrincipal.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\obj\Debug\Dispositivo_5.Properties.Resources.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\obj\Debug\Dispositivo_5.csproj.GenerateResource.Cache
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\obj\Debug\Dispositivo_5.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_5\Dispositivo_5\obj\Debug\Dispositivo_5.pdb
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_6\bin\Debug\Dispositivo_5.exe.config
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_6\obj\Debug\Dispositivo_5.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_6\obj\Debug\Dispositivo_5.pdb

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<INIT>
+  <xs:schema id="INIT" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="INIT" msdata:IsDataSet="true" msdata:Locale="en-US">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Init">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DEFAULT_LANGUAGE" type="xs:string" minOccurs="0" />                
+                <xs:element name="WS_ID" type="xs:string" minOccurs="0" />
+                <xs:element name="STATION_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="SUB_WS_ID" type="xs:string" minOccurs="0" />
+                <xs:element name="USERS_DATASOURCE" type="xs:string" minOccurs="0" />
+                <xs:element name="REFS_DATASOURCE" type="xs:string" minOccurs="0" />
+                <xs:element name="PARAMS_DATASOURCE" type="xs:string" minOccurs="0" />
+                <xs:element name="PLC_IP_ADDR" type="xs:string" minOccurs="0" />                
+                <xs:element name="DALSA_IP_ADDR" type="xs:string" minOccurs="0" />
+		<xs:element name="CIM_DISABLE" type="xs:string" minOccurs="0" />
+		<xs:element name="CIM_ID" type="xs:string" minOccurs="0" />
+		<xs:element name="SCANNER_COM" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Init>
+    <DEFAULT_LANGUAGE>PT</DEFAULT_LANGUAGE>
+    <WS_ID>0000</WS_ID>
+    <STATION_NAME>OP_10</STATION_NAME>
+    <SUB_WS_ID>1</SUB_WS_ID>
+    <USERS_DATASOURCE>XML</USERS_DATASOURCE>
+    <REFS_DATASOURCE>XML</REFS_DATASOURCE>
+    <PARAMS_DATASOURCE>XML</PARAMS_DATASOURCE>
+    <PLC_IP_ADDR>192.168.1.1</PLC_IP_ADDR>    
+    <DALSA_IP_ADDR>192.168.1.50</DALSA_IP_ADDR>
+    <CIM_DISABLE>1</CIM_DISABLE>
+    <CIM_ID>GENSCWSTN1</CIM_ID>
+    <SCANNER_COM>COM6</SCANNER_COM>
+  </Init>
+</INIT>

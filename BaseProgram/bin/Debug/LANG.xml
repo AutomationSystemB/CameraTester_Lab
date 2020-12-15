@@ -1,0 +1,1303 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<LANG>
+  <xs:schema id="LANG" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="LANG" msdata:IsDataSet="true" msdata:Locale="en-US">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TableLang">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID_Msg" type="xs:string" minOccurs="0" />
+                <xs:element name="Tag" type="xs:string" minOccurs="0" />
+                <xs:element name="PT" type="xs:string" minOccurs="0" />
+                <xs:element name="EN" type="xs:string" minOccurs="0" />
+				<xs:element name="ES" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TableLang>
+    <ID_Msg>1</ID_Msg>
+    <Tag>1</Tag>
+    <PT>  Referência  </PT>
+    <EN>  Reference  </EN>
+    <CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>2</ID_Msg>
+    <Tag>2</Tag>
+    <PT>OP_10</PT>
+    <EN>OP_10</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>3</ID_Msg>
+    <Tag>3</Tag>
+    <PT>Iniciar</PT>
+    <EN>Start</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>4</ID_Msg>
+    <Tag>4</Tag>
+    <PT>Parar</PT>
+    <EN>Stop</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>5</ID_Msg>
+    <Tag>5</Tag>
+    <PT>  Package Label</PT>
+    <EN>  Package Label</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>6</ID_Msg>
+    <Tag>6</Tag>
+    <PT>  Posição    Inicial</PT>
+    <EN>     Home      Position</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>7</ID_Msg>
+    <Tag>7</Tag>
+    <PT>Ciclo:</PT>
+    <EN>Cycle:</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>8</ID_Msg>
+    <Tag>8</Tag>
+    <PT>Parâmetros de configuração:</PT>
+    <EN>Configuration parameters:</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>9</ID_Msg>
+    <Tag>9</Tag>
+    <PT>Teclado</PT>
+    <EN>Keyboard</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>10</ID_Msg>
+    <Tag>10</Tag>
+    <PT>Guardar</PT>
+    <EN>Save</EN>
+	<CH></CH>
+  </TableLang>  
+  <TableLang>
+    <ID_Msg>11</ID_Msg>
+    <Tag>100</Tag>
+    <PT>   Parar</PT>
+    <EN>   Stop</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>12</ID_Msg>
+    <Tag>101</Tag>
+    <PT>Aspire a zona de trabalho do Dispositivo.||Prima 'PARAR' quando terminar.</PT>
+    <EN>Vacuum the device workplace.||Press 'STOP' when finished.</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>13</ID_Msg>
+    <Tag>1000</Tag>
+    <PT>Retire todas as Peças das Cavidades para Iniciar</PT>
+    <EN>Remove all parts from the device to Start</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>14</ID_Msg>
+    <Tag>1001</Tag>
+    <PT>Aspire a zona de trabalho da Máquina</PT>
+    <EN>Vacuum the device workplace</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>15</ID_Msg>
+    <Tag>11</Tag>
+    <PT> Modo Automático</PT>
+    <EN> Automatic Mode </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>16</ID_Msg>
+    <Tag>12</Tag>
+    <PT> M. Manual (IO)</PT>
+    <EN> Man. Mode (IO) </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>17</ID_Msg>
+    <Tag>13</Tag>
+    <PT> M. Manual (Eixos)</PT>
+    <EN> Man. Mode (Actuators) </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>18</ID_Msg>
+    <Tag>14</Tag>
+    <PT> Configuração </PT>
+    <EN> Configuration </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>19</ID_Msg>
+    <Tag>15</Tag>
+    <PT>  -- Escolha Referência --</PT>
+    <EN>    -- Select Reference --</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>20</ID_Msg>
+    <Tag>16</Tag>
+    <PT> Primeiro Ciclo</PT>
+    <EN> First Cycle</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>21</ID_Msg>
+    <Tag>17</Tag>
+    <PT> Primeiro Ciclo</PT>
+    <EN> Second Cycle</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>22</ID_Msg>
+    <Tag>18</Tag>
+    <PT> Ciclo Normal</PT>
+    <EN> Production Cycle</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>23</ID_Msg>
+    <Tag>19</Tag>
+    <PT> Ultimo Ciclo</PT>
+    <EN> Last Cycle</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>24</ID_Msg>
+    <Tag>20</Tag>
+    <PT> Pos. Casa</PT>
+    <EN> Home Pos.</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>25</ID_Msg>
+    <Tag>21</Tag>
+    <PT> Alarm Reset</PT>
+    <EN> Alarm Reset</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>26</ID_Msg>
+    <Tag>22</Tag>
+    <PT> Ir para Posição</PT>
+    <EN> Go to Position</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>27</ID_Msg>
+    <Tag>23</Tag>
+    <PT>Posição Actual</PT>
+    <EN>Actual Position</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>28</ID_Msg>
+    <Tag>24</Tag>
+    <PT>Posição</PT>
+    <EN>Position</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>29</ID_Msg>
+    <Tag>25</Tag>
+    <PT> Movimento da Mesa </PT>
+    <EN> Displacement X </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>30</ID_Msg>
+    <Tag>26</Tag>
+    <PT> Massa </PT>
+    <EN> Grease </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>31</ID_Msg>
+    <Tag>27</Tag>
+    <PT> Movimento em Z </PT>
+    <EN> Displacement Z </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>32</ID_Msg>
+    <Tag>1002</Tag>
+    <PT>A colocar em Posição Inicial..</PT>
+    <EN>Moving to HomePosition..</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>33</ID_Msg>
+    <Tag>1003</Tag>
+    <PT>Aspire a Zona de Trabalho - Carregue no Pedal</PT>
+    <EN>Vacuum the device workplace - Press Pedal</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>34</ID_Msg>
+    <Tag>1004</Tag>
+    <PT>Cole uma etiqueta no Housing e coloque-o na Cavidade 1</PT>
+    <EN>Place a Label in the Housing part and put it in Cavity 1</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>35</ID_Msg>
+    <Tag>1005</Tag>
+    <PT>Sem referência seleccionada!</PT>
+    <EN>No reference selected!</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>36</ID_Msg>
+    <Tag>1006</Tag>
+    <PT>Ferramenta não colocada!</PT>
+    <EN>No nest conected!</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>37</ID_Msg>
+    <Tag>1007</Tag>
+    <PT>Circuito de segurança desligado!</PT>
+    <EN>Security Circuit Off!</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>38</ID_Msg>
+    <Tag>1008</Tag>
+    <PT>Falta de pressão de ar!</PT>
+    <EN>No compressed Air!</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>39</ID_Msg>
+    <Tag>1009</Tag>
+    <PT>Modo Automático activo</PT>
+    <EN>Automatic Mode active</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>40</ID_Msg>
+    <Tag>1010</Tag>
+    <PT>Falha a ir para a posição inicial</PT>
+    <EN>Error on moving to Home Position</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>41</ID_Msg>
+    <Tag>1011</Tag>
+    <PT>Máquina em posição inicial</PT>
+    <EN>Home Position OK</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>42</ID_Msg>
+    <Tag>1012</Tag>
+    <PT>Máquina fora da posição inicial</PT>
+    <EN>Home Position NOK</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>43</ID_Msg>
+    <Tag>1013</Tag>
+    <PT>Ligado a BK: </PT>
+    <EN>Connected to BK: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>44</ID_Msg>
+    <Tag>1014</Tag>
+    <PT>Sem Comunicação!</PT>
+    <EN>Not Connected!</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>45</ID_Msg>
+    <Tag>1015</Tag>
+    <PT>ENTRADAS DIGITAIS</PT>
+    <EN>DIGITAL INPUTS</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>46</ID_Msg>
+    <Tag>1016</Tag>
+    <PT>SAÍDAS DIGITAIS</PT>
+    <EN>DIGITAL OUTPUTS</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>47</ID_Msg>
+    <Tag>1017</Tag>
+    <PT>ENTRADAS ANALÓGICAS</PT>
+    <EN>ANALOG INPUTS</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>48</ID_Msg>
+    <Tag>1018</Tag>
+    <PT>Valor</PT>
+    <EN>Value</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>49</ID_Msg>
+    <Tag>1019</Tag>
+    <PT>Sair</PT>
+    <EN>Exit</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>50</ID_Msg>
+    <Tag>1020</Tag>
+    <PT>Limpar</PT>
+    <EN>Clear</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>51</ID_Msg>
+    <Tag>1021</Tag>
+    <PT>nº controlo</PT>
+    <EN>Operator number</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>52</ID_Msg>
+    <Tag>1022</Tag>
+    <PT>Autenticação</PT>
+    <EN>Authentication</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>53</ID_Msg>
+    <Tag>1023</Tag>
+    <PT>Entrar</PT>
+    <EN>Login</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>54</ID_Msg>
+    <Tag>1024</Tag>
+    <PT>Tem a certeza que deseja sair do programa?</PT>
+    <EN>Are you sure you want to Exit?</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>55</ID_Msg>
+    <Tag>1025</Tag>
+    <PT>Escolha</PT>
+    <EN>Choose</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>56</ID_Msg>
+    <Tag>28</Tag>
+    <PT>   Descartar</PT>
+    <EN>   Discard</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>57</ID_Msg>
+    <Tag>1026</Tag>
+    <PT>Ocorreu um erro ao editar o campo de dados||</PT>
+    <EN>An error occurred while editing data fields||</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>58</ID_Msg>
+    <Tag>1027</Tag>
+    <PT>||(Faça OK e Prima ESC para voltar ao valor anterior)</PT>
+    <EN>||(Click OK and hit the ESC key to discard changes)</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>59</ID_Msg>
+    <Tag>1028</Tag>
+    <PT>Tem a certeza que deseja alterar as configurações?</PT>
+    <EN>Are you sure you want to change settings?</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>60</ID_Msg>
+    <Tag>1029</Tag>
+    <PT>Existe um erro na linha </PT>
+    <EN>There is an error on line </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>61</ID_Msg>
+    <Tag>1030</Tag>
+    <PT>Erro ao guardar as configurações na Base de Dados||</PT>
+    <EN>There was an error while trying to save settings on DataBase||</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>62</ID_Msg>
+    <Tag>1031</Tag>
+    <PT>Erro ao actualizar as configurações|</PT>
+    <EN>There was an error while trying to get settings from DataBase|</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>63</ID_Msg>
+    <Tag>1032</Tag>
+    <PT>Não houve alteração dos dados. Não será nada guardado.</PT>
+    <EN>There was no change. Nothing will be saved.</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>64</ID_Msg>
+    <Tag>1033</Tag>
+    <PT>Password Errada</PT>
+    <EN>Wrong Password</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>65</ID_Msg>
+    <Tag>1034</Tag>
+    <PT>Tem de seleccionar um utilizador!</PT>
+    <EN>You must select a User first!</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>66</ID_Msg>
+    <Tag>1035</Tag>
+    <PT>O campo 'Password' tem de ter 4 digitos!</PT>
+    <EN>The 'Password' field must have 4 digits!</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>67</ID_Msg>
+    <Tag>1036</Tag>
+    <PT>VERIFIQUE A LIGAÇÂO DE REDE!||Não foi possível carregar a lista de utilizadores devido a um erro de ligação à Base de Dados. O programa vai encerrar.||Detalhe:</PT>
+    <EN>PLEASE CHECK YOUR NETWORK CONNECTION!||An error ocurred when getting the Users list. The program will now exit.||Details:</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>68</ID_Msg>
+    <Tag>1037</Tag>
+    <PT>Erro ao inicializar variáveis em 'InitVars()':||</PT>
+    <EN>An error ocurred while initializing variables in 'InitVars()':||</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>69</ID_Msg>
+    <Tag>1038</Tag>
+    <PT>Nest codification not match with the model selected</PT>
+    <EN>Nest codification not match with the model selected</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>70</ID_Msg>
+    <Tag>1039</Tag>
+    <PT> Pos1</PT>
+    <EN> Pos1</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>71</ID_Msg>
+    <Tag>1040</Tag>
+    <PT> Pos2</PT>
+    <EN> Pos2</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>72</ID_Msg>
+    <Tag>1041</Tag>
+    <PT> Pos3</PT>
+    <EN> Pos3</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>73</ID_Msg>
+    <Tag>1042</Tag>
+    <PT> Pos0</PT>
+    <EN> Pos0</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>74</ID_Msg>
+    <Tag>1043</Tag>
+    <PT>Limpeza  Massa</PT>
+    <EN>Clean   Grease</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>75</ID_Msg>
+    <Tag>1044</Tag>
+    <PT>Pos4</PT>
+    <EN>Pos4</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>76</ID_Msg>
+    <Tag>1045</Tag>
+    <PT>Pos5</PT>
+    <EN>Pos5</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>77</ID_Msg>
+    <Tag>200</Tag>
+    <PT>Retire o botão Isofix da cavidade esquerda</PT>
+    <EN>Remove the Isofix button from the left nest</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>78</ID_Msg>
+    <Tag>201</Tag>
+    <PT>Retire o botão Isofix da cavidade direita</PT>
+    <EN>Remove the Isofix button from the right nest</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>79</ID_Msg>
+    <Tag>202</Tag>
+    <PT>Retire a Cadeira da base</PT>
+    <EN>Retire a Cadeira da base</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>80</ID_Msg>
+    <Tag>203</Tag>
+    <PT>Coloque uma nova cadeira</PT>
+    <EN>Coloque uma nova cadeira</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>81</ID_Msg>
+    <Tag>204</Tag>
+    <PT>Connect the sensor UIF to start the test</PT>
+    <EN>Connect the sensor UIF to start the test</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>82</ID_Msg>
+    <Tag>205</Tag>
+    <PT>Put the UIF Test Label</PT>
+    <EN>Put the UIF Test Label</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>83</ID_Msg>
+    <Tag>206</Tag>
+    <PT>No Test Label detected</PT>
+    <EN>No Test Label detected</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>84</ID_Msg>
+    <Tag>207</Tag>
+    <PT>A Testar ..||Aguarde</PT>
+    <EN>Testing .. ||Please Wait</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>85</ID_Msg>
+    <Tag>208</Tag>
+    <PT>Sensor UIF NOK</PT>
+    <EN>Sensor UIF NOK</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>86</ID_Msg>
+    <Tag>209</Tag>
+    <PT>Place the Master Sample in the nest</PT>
+    <EN>Place the Master Sample in the nest</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>87</ID_Msg>
+    <Tag>210</Tag>
+    <PT>Connect the Master Sample</PT>
+    <EN>Connect the Master Sample</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>88</ID_Msg>
+    <Tag>211</Tag>
+    <PT>Master Sample NTC 1 NOK: </PT>
+    <EN>Master Sample NTC 1 NOK: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>89</ID_Msg>
+    <Tag>212</Tag>
+    <PT>Master Sample NTC 2 NOK: </PT>
+    <EN>Master Sample NTC 2 NOK: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>90</ID_Msg>
+    <Tag>213</Tag>
+    <PT>Master Sample NTC 3 NOK: </PT>
+    <EN>Master Sample NTC 3 NOK: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>91</ID_Msg>
+    <Tag>214</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>92</ID_Msg>
+    <Tag>215</Tag>
+    <PT>   Prima botão OK para continuar...</PT>
+    <EN>   Press button OK to continue...</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>93</ID_Msg>
+    <Tag>216</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>94</ID_Msg>
+    <Tag>217</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>95</ID_Msg>
+    <Tag>218</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>96</ID_Msg>
+    <Tag>219</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>97</ID_Msg>
+    <Tag>220</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>98</ID_Msg>
+    <Tag>221</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>99</ID_Msg>
+    <Tag>222</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>100</ID_Msg>
+    <Tag>223</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>101</ID_Msg>
+    <Tag>224</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>102</ID_Msg>
+    <Tag>225</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>103</ID_Msg>
+    <Tag>226</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>104</ID_Msg>
+    <Tag>227</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>105</ID_Msg>
+    <Tag>228</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>106</ID_Msg>
+    <Tag>229</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>107</ID_Msg>
+    <Tag>230</Tag>
+    <PT>Leitura de etiqueta do sensor UIF (CheckSN)</PT>
+    <EN>Tag reading (CheckSN)</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>108</ID_Msg>
+    <Tag>231</Tag>
+    <PT>Leitura de etiqueta(CheckSN)</PT>
+    <EN>Tag reading (CheckSN)</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>109</ID_Msg>
+    <Tag>232</Tag>
+    <PT>Leitura de etiqueta(CheckSN)</PT>
+    <EN>Tag reading (CheckSN)</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>110</ID_Msg>
+    <Tag>233</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>111</ID_Msg>
+    <Tag>234</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>112</ID_Msg>
+    <Tag>235</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>113</ID_Msg>
+    <Tag>236</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>114</ID_Msg>
+    <Tag>237</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>115</ID_Msg>
+    <Tag>238</Tag>
+    <PT>Movimentos Bloqueio Esquerdo</PT>
+    <EN>Left Block Movement</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>116</ID_Msg>
+    <Tag>239</Tag>
+    <PT>Movimentos Bloqueio Direito</PT>
+    <EN>Right Block Movement</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>117</ID_Msg>
+    <Tag>240</Tag>
+    <PT>Movimentos Bloqueio Avanço Esquerdo</PT>
+    <EN>Left Advance Block Movement</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>118</ID_Msg>
+    <Tag>241</Tag>
+    <PT>Movimentos Bloqueio Avanço Direito</PT>
+    <EN>Right Advance Block Movement</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>119</ID_Msg>
+    <Tag>242</Tag>
+    <PT>Movimentos Porta</PT>
+    <EN>Door Movement</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>120</ID_Msg>
+    <Tag>243</Tag>
+    <PT>Falha Pressão Ar - Confirme no Botão NOK</PT>
+    <EN>Air Pressure Fault - NOK Button Acknowledge</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>121</ID_Msg>
+    <Tag>244</Tag>
+    <PT>Movimento do Cilindro de Guiamento do Botão Esquerdo</PT>
+    <EN>Movimento do Cilindro de Guiamento do Botão Esquerdo</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>122</ID_Msg>
+    <Tag>245</Tag>
+    <PT>Movimento do Cilindro de Guiamento do Botão Direito</PT>
+    <EN>Movimento do Cilindro de Guiamento do Botão Direito</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>123</ID_Msg>
+    <Tag>246</Tag>
+    <PT>Movimento do Cilindro de Montagem do Botão Esquerdo</PT>
+    <EN>Movimento do Cilindro de Montagem do Botão Esquerdo</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>124</ID_Msg>
+    <Tag>247</Tag>
+    <PT>Movimento do Cilindro de Montagem do Botão Direito</PT>
+    <EN>Movimento do Cilindro de Montagem do Botão Direito</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>125</ID_Msg>
+    <Tag>248</Tag>
+    <PT>Movimento do Cilindro de Desbloqueio do Isofix Esquerdo</PT>
+    <EN>Movimento do Cilindro de Desbloqueio do Isofix Esquerdo</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>126</ID_Msg>
+    <Tag>249</Tag>
+    <PT>Movimento do Cilindro de Desbloqueio do Isofix Direito</PT>
+    <EN>Movimento do Cilindro de Desbloqueio do Isofix Direito</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>127</ID_Msg>
+    <Tag>250</Tag>
+    <PT>Movimento do Cilindro de Teste do Isofix Esquerdo</PT>
+    <EN>Movimento do Cilindro de Teste do Isofix Esquerdo</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>128</ID_Msg>
+    <Tag>251</Tag>
+    <PT>Movimento do Cilindro de Teste do Isofix Direito</PT>
+    <EN>Movimento do Cilindro de Teste do Isofix Direito</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>129</ID_Msg>
+    <Tag>252</Tag>
+    <PT>Sistema de visão</PT>
+    <EN>Sistema de visão</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>130</ID_Msg>
+    <Tag>253</Tag>
+    <PT>Ciclo Terminado</PT>
+    <EN>Cycle ended</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>131</ID_Msg>
+    <Tag>254</Tag>
+    <PT>-</PT>
+    <EN>-</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>132</ID_Msg>
+    <Tag>255</Tag>
+    <PT>-</PT>
+    <EN>-</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>133</ID_Msg>
+    <Tag>256</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>134</ID_Msg>
+    <Tag>257</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>135</ID_Msg>
+    <Tag>258</Tag>
+    <PT>Confirme no Botão NOK</PT>
+    <EN>NOK Button Acknowledge</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>136</ID_Msg>
+    <Tag>259</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>137</ID_Msg>
+    <Tag>260</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>138</ID_Msg>
+    <Tag>261</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>139</ID_Msg>
+    <Tag>262</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>140</ID_Msg>
+    <Tag>263</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>141</ID_Msg>
+    <Tag>264</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>142</ID_Msg>
+    <Tag>265</Tag>
+    <PT>Falha: </PT>
+    <EN>Fault: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>143</ID_Msg>
+    <Tag>266</Tag>
+    <PT>Pressione Pedal para continuar / Botão Special Function para realizar um passo e inicializar o contador</PT>
+    <EN>Press Pedal to continue / Special Function Button to make a step and initialize de counter</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>144</ID_Msg>
+    <Tag>267</Tag>
+    <PT>Amostra OK não conforme:</PT>
+    <EN>Sample OK nonconforming:</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>145</ID_Msg>
+    <Tag>268</Tag>
+    <PT>Erro da Amostra NOK não conforme:</PT>
+    <EN>Sample NOK nonconforming error:</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>146</ID_Msg>
+    <Tag>269</Tag>
+    <PT>Amostra não autorizada</PT>
+    <EN>Unauthorized Sample</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>147</ID_Msg>
+    <Tag>270</Tag>
+    <PT>-</PT>
+    <EN>-</EN>
+	<CH></CH>
+  </TableLang>  
+  <TableLang>
+    <ID_Msg>148</ID_Msg>
+    <Tag>271</Tag>
+    <PT>-</PT>
+    <EN>-</EN>
+	<CH></CH>
+  </TableLang> 
+  <TableLang>
+    <ID_Msg>149</ID_Msg>
+    <Tag>272</Tag>
+    <PT>Peça NOK</PT>
+    <EN>Piece NOK</EN>
+	<CH></CH>
+  </TableLang>  
+  <TableLang>
+    <ID_Msg>150</ID_Msg>
+    <Tag>273</Tag>
+    <PT>Peça NOK</PT>
+    <EN>Piece NOK</EN>
+	<CH></CH>
+  </TableLang> 
+  <TableLang>
+    <ID_Msg>151</ID_Msg>
+    <Tag>274</Tag>
+    <PT>NTC 1 Value: </PT>
+    <EN>NTC 1 Value: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>152</ID_Msg>
+    <Tag>275</Tag>
+    <PT>NTC 2 Value: </PT>
+    <EN>NTC 2 Value: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>153</ID_Msg>
+    <Tag>276</Tag>
+    <PT>NTC 3 Value: </PT>
+    <EN>NTC 3 Value: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>154</ID_Msg>
+    <Tag>277</Tag>
+    <PT>NTC 1 REF Value: </PT>
+    <EN>NTC 1 REF Value: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>155</ID_Msg>
+    <Tag>278</Tag>
+    <PT>NTC 2 REF Value: </PT>
+    <EN>NTC 2 REF Value: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>156</ID_Msg>
+    <Tag>279</Tag>
+    <PT>NTC 3 REF Value: </PT>
+    <EN>NTC 3 REF Value: </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>157</ID_Msg>
+    <Tag>280</Tag>
+    <PT>Coloque a Peça na Caixa de rejeição..</PT>
+    <EN>Place the Piece in the Rejection Box...</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>158</ID_Msg>
+    <Tag>281</Tag>
+    <PT>Sensor UIF NOK</PT>
+    <EN>UIF Sensor NOK</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>159</ID_Msg>
+    <Tag>282</Tag>
+    <PT>Botão OK para continuar</PT>
+    <EN>OK Button to continue</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>160</ID_Msg>
+    <Tag>283</Tag>
+    <PT>Botão NOK para rejeitar</PT>
+    <EN>NOK Button to Reject</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>161</ID_Msg>
+    <Tag>284</Tag>
+    <PT>Retire a Peça para rejeição..</PT>
+    <EN>Remove Part for Rejection..</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>162</ID_Msg>
+    <Tag>285</Tag>
+    <PT>Coloque o Sensor UIF na Caixa de rejeição..</PT>
+    <EN>Place UIF Sensor in the Rejection Box..</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>163</ID_Msg>
+    <Tag>286</Tag>
+    <PT>Retire a Peça para rejeição..</PT>
+    <EN>Remove Part for Rejection..</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>164</ID_Msg>
+    <Tag>287</Tag>
+    <PT>Coloque a Peça na Caixa de rejeição..</PT>
+    <EN>Place Part in the Rejection Box..</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>165</ID_Msg>
+    <Tag>288</Tag>
+    <PT>Verifique etiqueta da Amostra OK</PT>
+    <EN>Verifies OK sample tag</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>166</ID_Msg>
+    <Tag>289</Tag>
+    <PT>Verifique etiqueta da Amostra OK</PT>
+    <EN>Verifies OK sample tag</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>167</ID_Msg>
+    <Tag>290</Tag>
+    <PT>Leitura de etiqueta de Amostra (CheckSN)</PT>
+    <EN>Sample tag read(CheckSN)</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>168</ID_Msg>
+    <Tag>291</Tag>
+    <PT>Coloque Amostra Esquerda</PT>
+	<CH></CH>
+    <EN>Place Sample</EN>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>169</ID_Msg>
+    <Tag>292</Tag>
+    <PT>Leitura de etiqueta de Amostra (CheckSN)</PT>
+    <EN>Sample tag read(CheckSN)</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>170</ID_Msg>
+    <Tag>293</Tag>
+    <PT>Coloque Amostra</PT>
+    <EN>Place Sample</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>171</ID_Msg>
+    <Tag>294</Tag>
+    <PT>Verifique etiqueta da Amostra Direita</PT>
+    <EN>Verifies sample tag</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>172</ID_Msg>
+    <Tag>295</Tag>
+    <PT>Retire a Amostra OK da Cavidade!</PT>
+    <EN>Remove Cavity OK Sample</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>173</ID_Msg>
+    <Tag>296</Tag>
+    <PT>Retire a Amostra NOK da Cavidade!</PT>
+    <EN>Remove Cavity NOK Sample</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+  <ID_Msg>174</ID_Msg>
+    <Tag>297</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang> 
+  <TableLang>
+    <ID_Msg>175</ID_Msg>
+    <Tag>298</Tag>
+    <PT></PT>
+    <EN></EN>
+  </TableLang> 
+  <TableLang>
+    <ID_Msg>176</ID_Msg>
+    <Tag>299</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang> 
+  <TableLang>
+    <ID_Msg>177</ID_Msg>
+    <Tag>300</Tag>
+    <PT></PT>
+    <EN></EN>
+	<CH></CH>
+  </TableLang> 
+  
+  <TableLang>
+    <ID_Msg>178</ID_Msg>
+    <Tag>500</Tag>
+    <PT>EIXO X:Erro ao ligar a Porta de comunicações</PT>
+    <EN>X Axis: Error connecting communication port</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>179</ID_Msg>
+    <Tag>501</Tag>
+    <PT>Erro ao inicializar variáveis em </PT>
+    <EN>Error initializing variables in </EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>180</ID_Msg>
+    <Tag>502</Tag>
+    <PT>Falha de Comunicação com o Eixo IAI</PT>
+    <EN>Error connecting IAI controller</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>181</ID_Msg>
+    <Tag>503</Tag>
+    <PT>Porta de manutenção Frente aberta</PT>
+    <EN>Maintenance Front Door open</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+  <ID_Msg>182</ID_Msg>
+    <Tag>504</Tag>
+    <PT>Porta de manutenção Traseira aberta</PT>
+    <EN>Maintenance Back Door open</EN>
+	<CH></CH>
+  </TableLang>
+  <TableLang>
+    <ID_Msg>183</ID_Msg>
+    <Tag>505</Tag>
+    <PT>Erro ao actualizar os parametros da Linguagem em </PT>
+    <EN>Error initializing Language parameters in </EN>
+	<CH></CH>
+  </TableLang>
+</LANG>

@@ -1,0 +1,38 @@
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\Release\UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\Release\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\Release\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\Release\ModBusLib.dll
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.Login.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.MenuPrincipal.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.Properties.Resources.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.csproj.GenerateResource.Cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.csprojResolveAssemblyReference.cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.frmPackage.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\Release\UIF_EOLT.exe.config
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\Release\UIF_EOLT.exe
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\Release\UIF_EOLT.pdb
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\Release\ModBusLib.dll
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.frmPackage.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.Login.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.MenuPrincipal.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.Properties.Resources.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\GenerateResource.read.1.tlog
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\GenerateResource.write.1.tlog
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.exe
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\Release\UIF_EOLT.pdb
+F:\UIF EOLT 20131209\UIF_EOLT\bin\Release\UIF_EOLT.exe.config
+F:\UIF EOLT 20131209\UIF_EOLT\bin\Release\UIF_EOLT.exe
+F:\UIF EOLT 20131209\UIF_EOLT\bin\Release\UIF_EOLT.pdb
+F:\UIF EOLT 20131209\UIF_EOLT\bin\Release\ModBusLib.dll
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\ResolveAssemblyReference.cache
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\UIF_EOLT.frmPackage.resources
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\UIF_EOLT.Login.resources
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\UIF_EOLT.MenuPrincipal.resources
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\UIF_EOLT.Properties.Resources.resources
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\GenerateResource.read.1.tlog
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\GenerateResource.write.1.tlog
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\UIF_EOLT.exe
+F:\UIF EOLT 20131209\UIF_EOLT\obj\Release\UIF_EOLT.pdb

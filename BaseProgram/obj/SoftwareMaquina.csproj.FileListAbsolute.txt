@@ -1,0 +1,417 @@
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuAutomatico.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuManual.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuAutomatico.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuManual.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Os meus documentos\Visual Studio 2005\Projects\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuAutomatico.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuManual.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaquina\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Cópia de SoftwareMaq (TabControl)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (2) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (4) de SoftwareMaq (TabControl2)\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 30-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 31-10-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 03-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 05-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 06-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 17-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia (3) de SoftwareMaq 18-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq 19-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 24-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 2\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Maquina 1\SoftwareMaq1 25-11-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\OF284 Maquina 1\SoftwareMaq1 3-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\SoftwareMaq1 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 29-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 30-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 7-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 15-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 28-12-2008\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\GTO D4 1\SoftwareMaq 1-02-2009\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application

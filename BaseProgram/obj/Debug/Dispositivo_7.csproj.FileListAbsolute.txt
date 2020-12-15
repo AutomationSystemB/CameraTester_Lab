@@ -1,0 +1,48 @@
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe.config
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\obj\Debug\ResolveAssemblyReference.cache
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Login.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.MenuPrincipal.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Properties.Resources.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.csproj.GenerateResource.Cache
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.pdb
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\bin\Debug\ModBusLib.dll
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.pdb
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe.config
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.pdb
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Login.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.MenuPrincipal.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Properties.Resources.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.csproj.GenerateResource.Cache
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.pdb
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe.config
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.exe
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.pdb
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.pdb
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Login.resources
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.MenuPrincipal.resources
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Properties.Resources.resources
+C:\Testes\C#.NET\AU37x\Actuais\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.csproj.GenerateResource.Cache
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe.config
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.pdb
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Login.resources
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.MenuPrincipal.resources
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.Properties.Resources.resources
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.exe
+C:\Testes\C#.NET\HBF Assembly\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Piloto\Dispositivo_7\Dispositivo_7\bin\Debug\Dispositivo_7.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Piloto\Dispositivo_7\Dispositivo_7\obj\Debug\Dispositivo_7.pdb

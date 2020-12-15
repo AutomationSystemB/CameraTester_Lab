@@ -1,0 +1,29 @@
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\Dispositivo_580.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.Login.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\Dispositivo_580.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\Dispositivo_580.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.pdb
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\Dispositivo_580.exe.config
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.exe
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.pdb
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\Dispositivo_580.exe
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\Dispositivo_580.pdb
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.Login.resources
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_580.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_565\Dispositivo_580\bin\Debug\Dispositivo_580.exe.config
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_565\Dispositivo_580\obj\Debug\Dispositivo_580.exe
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_565\Dispositivo_580\obj\Debug\Dispositivo_580.pdb

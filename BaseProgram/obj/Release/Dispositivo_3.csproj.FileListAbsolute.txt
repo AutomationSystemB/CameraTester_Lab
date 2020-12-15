@@ -1,0 +1,43 @@
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_1.exe.config
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_1.pdb
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\bin\Release\ModBusLib.dll
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Release\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.Login.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.MenuPrincipal.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.Properties.Resources.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.csproj.GenerateResource.Cache
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_1.pdb
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_3.exe.config
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_3.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_3.pdb
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\bin\Release\ModBusLib.dll
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\obj\Release\ResolveAssemblyReference.cache
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.Login.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.MenuPrincipal.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.Properties.Resources.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.csproj.GenerateResource.Cache
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.pdb
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\bin\Release\Dispositivo_3.exe.config
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\obj\Release\Dispositivo_3.exe
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\obj\Release\Dispositivo_3.pdb
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\bin\Release\Dispositivo_6.exe.config
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\obj\Release\ResolveAssemblyReference.cache
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\obj\Release\Dispositivo_6.Login.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\obj\Release\Dispositivo_6.MenuPrincipal.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\obj\Release\Dispositivo_6.Properties.Resources.resources
+E:\Software Maquinas\Preh\Projecto AU37X\Dispositivo_6\Dispositivo_3\obj\Release\Dispositivo_3.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_3.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_3.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\bin\Release\Dispositivo_3.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\bin\Release\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.Login.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Daimler\Dispositivo_3\Dispositivo_3\obj\Release\Dispositivo_3.pdb

@@ -1,0 +1,14 @@
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\bin\Debug\Dispositivo_1.exe.config
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\bin\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\bin\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_2.Login.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_2.MenuPrincipal.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_2.Properties.Resources.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_2.csproj.GenerateResource.Cache
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\bin\Debug\Dispositivo_1.exe.config
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_3\Dispositivo_3\obj\Debug\Dispositivo_1.pdb

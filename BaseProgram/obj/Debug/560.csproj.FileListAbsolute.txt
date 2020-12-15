@@ -1,0 +1,42 @@
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\bin\Debug\560.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\bin\Debug\Task_560_Audio.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\bin\Debug\Task_560_Audio.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\bin\Debug\Task_560_Audio.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\bin\Debug\Task_560_Audio.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\Task_560_Audio.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\Task_560_Audio.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\Task_560_Audio.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\Task_560_Audio.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\560\obj\Debug\Task_560_Audio.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\bin\Debug\Task_560_Audio.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\bin\Debug\Task_560_Audio.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\bin\Debug\Task_560_Audio.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.4R_04_10_12\560\bin\Debug\ModBusLib.dll
+\\ctrsrv\Produção\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\bin\Debug\Task_560_Audio.exe.config
+\\ctrsrv\Produção\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.exe
+\\ctrsrv\Produção\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.pdb
+\\ctrsrv\Produção\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\ResolveAssemblyReference.cache
+\\ctrsrv\Produção\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\ResGen.read.1.tlog
+\\ctrsrv\Produção\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\ResGen.write.1.tlog
+P:\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\bin\Debug\Task_560_Audio.exe.config
+P:\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.exe
+P:\Ordens de Fabrico\PREH\2012\OF 821 - Software Linha BMW XnF CS-4746\Documentação Técnica\Software\ACL\Disp Molas\DispD1_CFinal_v2.4R_04_10_12\560\obj\Debug\Task_560_Audio.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\560\bin\Debug\Task_560_Audio.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\560\obj\Debug\Task_560_Audio.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\560\obj\Debug\Task_560_Audio.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\560\bin\Debug\Task_UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\560\bin\Debug\UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\560\bin\Debug\UIF_ULTRASONIC.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\bin\Debug\UIF_ULTRASONIC.exe.config

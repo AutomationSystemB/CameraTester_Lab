@@ -1,0 +1,392 @@
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.Properties.Resources.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.AboutBox.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.AddModel.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\Dispositivo_1.exe.config
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\Dispositivo_1.exe.manifest
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\Dispositivo_1.application
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\Dispositivo_1.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\Dispositivo_1.pdb
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.TrustInfo.xml
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.exe.manifest
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.application
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\Dispositivo_1.pdb
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.AboutBox.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.AddModel.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.AboutBox.resources
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.AddModel.resources
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.AboutBox.resources
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.AddModel.resources
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+D:\Nuno\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Documents and Settings\AdminProd\Ambiente de trabalho\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+H:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+X:\C#.NET\Programas\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+\\Pttrfmn01\data\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+C:\N.Pacheco\AU210_Dispositivos\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo 1 - Montagem do Eixo na Blenda\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+S:\Automovel\ComClim\Electronica\AU210 Clima - 4353\Dispositivos\Fontes\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+Z:\Automovel\SistNav\Sony\Sony branded EFP Ford C346 - (AE253) - 4567\Fontes\Dispositivos Montagem\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+Z:\Automovel\SistNav\Sony\Sony branded EFP Ford C346 - (AE253) - 4567\Fontes\Dispositivos Montagem\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+Z:\Automovel\SistNav\Sony\Sony branded EFP Ford C346 - (AE253) - 4567\Fontes\Dispositivos Montagem\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+D:\PACHECO_N\Dispositivos Sony\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\bin\Debug\Dispositivo_1.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Dispositivo_1\obj\Debug\Dispositivo_1.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.application
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\Cópia de Nova pasta\Dispositivo_1\obj\Debug\Dispositivo_1.application
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\bin\Debug\Dispositivo_1.application
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\bin\Debug\ModBusLib.dll
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\ImageForm\Dispositivo_1\obj\Debug\Dispositivo_1.application
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\bin\Debug\ModBusLib.dll
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+E:\Software Maquinas\Preh\Projecto Sony\Dispositivo 1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+C:\Testes\C#.NET\Sony\Dispositivo 1\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.manifest
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.application
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.TrustInfo.xml
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe.manifest
+C:\Testes\C#.NET\Sony\Dispositivo 1\Amostras\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.application
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Testes\C#.NET\AU37x\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.csproj.GenerateResource.Cache
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\bin\Debug\Dispositivo_1.exe.config
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_1.exe
+C:\Testes\C#.NET\AU37x\Dispositivo_2\Dispositivo_2\obj\Debug\Dispositivo_1.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\bin\Debug\Dispositivo_4.exe.config
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\Dispositivo_4.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\bin\Debug\Dispositivo_4.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\bin\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\Dispositivo_4.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_1\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1\Dispositivo_1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_Sony C520_RF\NOSSO\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\Dispositivo_1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\Dispositivo_1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\Dispositivo_1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\Dispositivo_1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\D1.exe.config

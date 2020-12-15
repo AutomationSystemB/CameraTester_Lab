@@ -1,0 +1,45 @@
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe.config
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.exe
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.pdb
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\Dispositivo_4706.pdb
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.Login.resources
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\-Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe.config
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.exe
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.pdb
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\Dispositivo_4706.pdb
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.Login.resources
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\Dispositivo_4706.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\--Dispositivo_DEPMOL\Dispositivo_4706\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-01-30\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe.config
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-01-30\Dispositivo_4706\obj\Debug\Dispositivo_4706.exe
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-01-30\Dispositivo_4706\obj\Debug\Dispositivo_4706.pdb
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe.config
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\Dispositivo_4706.exe
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\Dispositivo_4706.pdb
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\Dispositivo_4706.Login.resources
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\Dispositivo_4706.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\Dispositivo_4706.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\bin\Debug\Dispositivo_4706.pdb
+C:\Users\ruiferreira\Desktop\CD391\Dispositivo_DEPMOL_12-02-03\Dispositivo_4706\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo4_16-02-12\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe.config
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo4_16-02-12\Dispositivo_4706\obj\Debug\Dispositivo_4706.exe
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo4_16-02-12\Dispositivo_4706\obj\Debug\Dispositivo_4706.pdb
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4706\bin\Debug\Dispositivo_4706.exe.config
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4706\obj\Debug\Dispositivo_4706.exe
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4706\obj\Debug\Dispositivo_4706.pdb

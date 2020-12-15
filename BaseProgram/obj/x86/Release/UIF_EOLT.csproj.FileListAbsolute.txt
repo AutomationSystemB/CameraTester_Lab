@@ -1,0 +1,11 @@
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Release\UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Release\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Release\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Release\ModBusLib.dll
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Release\UIF_EOLT.frmPackage.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Release\UIF_EOLT.Login.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Release\UIF_EOLT.MenuPrincipal.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Release\UIF_EOLT.Properties.Resources.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Release\UIF_EOLT.csproj.GenerateResource.Cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Release\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Release\UIF_EOLT.pdb

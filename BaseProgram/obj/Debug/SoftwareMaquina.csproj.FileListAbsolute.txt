@@ -1,0 +1,22 @@
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.manifest
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.application
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.pdb
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\ModBusLib.dll
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\ResolveAssemblyReference.cache
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AboutBox.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.AddModel.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.Properties.Resources.resources
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.TrustInfo.xml
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe.manifest
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\Ferramentas\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.application
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\SoftwareMaquina.exe.config
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.exe
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\obj\Debug\SoftwareMaquina.pdb
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\Dispositivo 1.exe.config
+T:\Automovel\ComClim\Electronica\AU210 - 4353\Dispositivos\Fontes\GTO1\SoftwareMaquina\SoftwareMaquina\bin\Debug\Dispositivo_1.exe.config

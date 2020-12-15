@@ -1,0 +1,322 @@
+<?xml version="1.0" standalone="yes"?>
+<DGVDSet>
+  <xs:schema id="DGVDSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="DGVDSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID_Parameter" type="xs:string" minOccurs="0" />
+                <xs:element name="Parameter" type="xs:string" minOccurs="0" />
+                <xs:element name="Min" type="xs:string" minOccurs="0" />
+                <xs:element name="Max" type="xs:string" minOccurs="0" />
+                <xs:element name="Description" type="xs:string" minOccurs="0" />
+                <xs:element name="TinyRefs" type="xs:string" minOccurs="0" />
+                <xs:element name="ID_WS" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID_Parameter>1</ID_Parameter>
+    <Parameter>Products</Parameter>
+    <Min>OAWK#OAWL</Min>
+    <Max>0</Max>
+    <Description>Nome dos modelos com o mesmo tipo de caracteristicas</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>2</ID_Parameter>
+    <Parameter>ScrewTableID</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aparafusamento</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>3</ID_Parameter>
+    <Parameter>PuttyTableID</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aplicação da pasta térmica</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>4</ID_Parameter>
+    <Parameter>GocatorTableID</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de inspecção dos pontos de pasta</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>5</ID_Parameter>
+    <Parameter>VisionHousingSN</Parameter>
+    <Min>h1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do Housing / 0: Disable</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>6</ID_Parameter>
+    <Parameter>VisionPCBSN</Parameter>
+    <Min>p1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do PCB / 0: Disable</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>7</ID_Parameter>
+    <Parameter>VisionCoverVerify</Parameter>
+    <Min>c1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão da inspecção do posicionamento do Cover / 0: Disable</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>8</ID_Parameter>
+    <Parameter>PuttyType</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Tipo de pasta / 0: Nenhuma / 1: 508 (Esq) / 2: 506 (Dir)</Description>
+    <TinyRefs>001</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  
+  
+    <Table>
+    <ID_Parameter>11</ID_Parameter>
+    <Parameter>Products</Parameter>
+    <Min>OAWM#OAWN#OAWO</Min>
+    <Max>0</Max>
+    <Description>Nome dos modelos com o mesmo tipo de caracteristicas</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>12</ID_Parameter>
+    <Parameter>ScrewTableID</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aparafusamento</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>13</ID_Parameter>
+    <Parameter>PuttyTableID</Parameter>
+    <Min>2</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aplicação da pasta térmica</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>14</ID_Parameter>
+    <Parameter>GocatorTableID</Parameter>
+    <Min>2</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de inspecção dos pontos de pasta</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>15</ID_Parameter>
+    <Parameter>VisionHousingSN</Parameter>
+    <Min>h1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do Housing / 0: Disable</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>16</ID_Parameter>
+    <Parameter>VisionPCBSN</Parameter>
+    <Min>p1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do PCB / 0: Disable</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>17</ID_Parameter>
+    <Parameter>VisionCoverVerify</Parameter>
+    <Min>c1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão da inspecção do posicionamento do Cover / 0: Disable</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>18</ID_Parameter>
+    <Parameter>PuttyType</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Tipo de pasta / 0: Nenhuma / 1: 508 (Esq) / 2: 506 (Dir)</Description>
+    <TinyRefs>002</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  
+  
+  
+    <Table>
+    <ID_Parameter>21</ID_Parameter>
+    <Parameter>Products</Parameter>
+    <Min>OAWP#OAWQ#OAWV#OAWW</Min>
+    <Max>0</Max>
+    <Description>Nome dos modelos com o mesmo tipo de caracteristicas</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>22</ID_Parameter>
+    <Parameter>ScrewTableID</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aparafusamento</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>23</ID_Parameter>
+    <Parameter>PuttyTableID</Parameter>
+    <Min>3</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aplicação da pasta térmica</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>24</ID_Parameter>
+    <Parameter>GocatorTableID</Parameter>
+    <Min>3</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de inspecção dos pontos de pasta</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>25</ID_Parameter>
+    <Parameter>VisionHousingSN</Parameter>
+    <Min>h1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do Housing / 0: Disable</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>26</ID_Parameter>
+    <Parameter>VisionPCBSN</Parameter>
+    <Min>p1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do PCB / 0: Disable</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>27</ID_Parameter>
+    <Parameter>VisionCoverVerify</Parameter>
+    <Min>c1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão da inspecção do posicionamento do Cover / 0: Disable</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>28</ID_Parameter>
+    <Parameter>PuttyType</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Tipo de pasta / 0: Nenhuma / 1: 508 (Esq) / 2: 506 (Dir)</Description>
+    <TinyRefs>003</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  
+  
+    
+    <Table>
+    <ID_Parameter>31</ID_Parameter>
+    <Parameter>Products</Parameter>
+    <Min>OAWR#OAWS#OAWT#OAWU</Min>
+    <Max>0</Max>
+    <Description>Nome dos modelos com o mesmo tipo de caracteristicas</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>32</ID_Parameter>
+    <Parameter>ScrewTableID</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aparafusamento</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>33</ID_Parameter>
+    <Parameter>PuttyTableID</Parameter>
+    <Min>4</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de aplicação da pasta térmica</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>34</ID_Parameter>
+    <Parameter>GocatorTableID</Parameter>
+    <Min>4</Min>
+    <Max>0</Max>
+    <Description>Indexação à tabela de caracteristicas do ciclo de inspecção dos pontos de pasta</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>35</ID_Parameter>
+    <Parameter>VisionHousingSN</Parameter>
+    <Min>h1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do Housing / 0: Disable</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>36</ID_Parameter>
+    <Parameter>VisionPCBSN</Parameter>
+    <Min>p1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão de leitura do SN do PCB / 0: Disable</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>37</ID_Parameter>
+    <Parameter>VisionCoverVerify</Parameter>
+    <Min>c1</Min>
+    <Max>0</Max>
+    <Description>Número do programa de visão da inspecção do posicionamento do Cover / 0: Disable</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  <Table>
+    <ID_Parameter>38</ID_Parameter>
+    <Parameter>PuttyType</Parameter>
+    <Min>1</Min>
+    <Max>0</Max>
+    <Description>Tipo de pasta / 0: Nenhuma / 1: 508 (Esq) / 2: 506 (Dir)</Description>
+    <TinyRefs>004</TinyRefs>
+    <ID_WS>OP10</ID_WS>
+  </Table>
+  
+  
+</DGVDSet>

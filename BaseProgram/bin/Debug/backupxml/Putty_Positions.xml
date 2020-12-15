@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="yes"?>
+<PuttyParSet>
+  <xs:schema id="PuttyParSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="PuttyParSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TableID" type="xs:string" minOccurs="0" />
+                <xs:element name="Parameter" type="xs:string" minOccurs="0" />
+                <xs:element name="X" type="xs:string" minOccurs="0" />
+                <xs:element name="X1" type="xs:string" minOccurs="0" />
+                <xs:element name="Y" type="xs:string" minOccurs="0" />
+                <xs:element name="Z" type="xs:string" minOccurs="0" />
+                <xs:element name="Time" type="xs:string" minOccurs="0" />
+                <xs:element name="Description" type="xs:string" minOccurs="0" />
+                <xs:element name="TinyRefs" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  
+  
+  <Table>
+    <TableID>1</TableID>
+    <Parameter>Position1</Parameter>
+    <X>10</X>
+    <X1>140</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>700</Time>
+    <Description>Posicao 1 de apararafusamento na TABELA 2 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  <Table>
+    <TableID>1</TableID>
+    <Parameter>Position2</Parameter>
+    <X>10</X>
+    <X1>150</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>700</Time>
+    <Description>Posicao 2 de apararafusamento na TABELA 2 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  
+  
+  
+  <Table>
+    <TableID>2</TableID>
+    <Parameter>Position1</Parameter>
+    <X>10</X>
+    <X1>140</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>700</Time>
+    <Description>Posicao 1 de apararafusamento na TABELA 1 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  <Table>
+    <TableID>2</TableID>
+    <Parameter>Position2</Parameter>
+    <X>10</X>
+    <X1>150</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>700</Time>
+    <Description>Posicao 2 de apararafusamento na TABELA 1 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  <Table>
+    <TableID>2</TableID>
+    <Parameter>Position3</Parameter>
+    <X>10</X>
+    <X1>168</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>700</Time>
+    <Description>Posicao 3 de apararafusamento na TABELA 1 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  <Table>
+    <TableID>2</TableID>
+    <Parameter>Position4</Parameter>
+    <X>10</X>
+    <X1>178</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>700</Time>
+    <Description>Posicao 4 de apararafusamento na TABELA 1 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  
+    <Table>
+    <TableID>3</TableID>
+    <Parameter>Position5</Parameter>
+    <X>10</X>
+    <X1>145</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>1000</Time>
+    <Description>Posicao 5 de apararafusamento na TABELA 1 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  
+  <Table>
+    <TableID>4</TableID>
+    <Parameter>Position5</Parameter>
+    <X>10</X>
+    <X1>145</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>1000</Time>
+    <Description>Posicao 4 de apararafusamento na TABELA 1 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+   <Table>
+    <TableID>4</TableID>
+    <Parameter>Position6</Parameter>
+    <X>10</X>
+    <X1>173</X1>
+    <Y>215</Y>
+    <Z>0</Z>
+    <Time>1000</Time>
+    <Description>Posicao 4 de apararafusamento na TABELA 1 - Putty</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+ 
+</PuttyParSet>

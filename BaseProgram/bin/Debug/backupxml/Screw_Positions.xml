@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<ScrewParSet>
+  <xs:schema id="ScrewParSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="ScrewParSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TableID" type="xs:string" minOccurs="0" />
+                <xs:element name="Parameter" type="xs:string" minOccurs="0" />
+                <xs:element name="X" type="xs:string" minOccurs="0" />
+                <xs:element name="X1" type="xs:string" minOccurs="0" />
+                <xs:element name="Y" type="xs:string" minOccurs="0" />
+                <xs:element name="Z" type="xs:string" minOccurs="0" />
+                <xs:element name="Description" type="xs:string" minOccurs="0" />
+                <xs:element name="TinyRefs" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <TableID>1</TableID>
+    <Parameter>Position1</Parameter>
+    <X>375</X>
+    <X1>103</X1>
+    <Y>295</Y>
+    <Z>104</Z>
+    <Description>Posicao do 1 apararafusamento na TABELA 1 - Screw</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  <Table>
+    <TableID>1</TableID>
+    <Parameter>Position2</Parameter>
+    <X>375</X>
+    <X1>9</X1>
+    <Y>128</Y>
+    <Z>104</Z>
+    <Description>Posicao do 2 apararafusamento na TABELA 1 - Screw</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  <Table>
+    <TableID>1</TableID>
+    <Parameter>Position3</Parameter>
+    <X>375</X>
+    <X1>102</X1>
+    <Y>127</Y>
+    <Z>104</Z>
+    <Description>Posicao do 3 apararafusamento na TABELA 1 - Screw</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  <Table>
+    <TableID>1</TableID>
+    <Parameter>Position4</Parameter>
+    <X>375</X>
+    <X1>1</X1>
+    <Y>281</Y>
+    <Z>104</Z>
+    <Description>Posicao do 4 apararafusamento na TABELA 1 - Screw</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+</ScrewParSet>

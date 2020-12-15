@@ -1,0 +1,54 @@
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\bin\x86\Debug\UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\bin\x86\Debug\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\bin\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\bin\x86\Debug\ModBusLib.dll
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\obj\x86\Debug\UIF_EOLT.Login.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\obj\x86\Debug\UIF_EOLT.MenuPrincipal.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\obj\x86\Debug\UIF_EOLT.Properties.Resources.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\obj\x86\Debug\UIF_EOLT.csproj.GenerateResource.Cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\obj\x86\Debug\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_ULTRASONIC\obj\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Debug\UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Debug\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\bin\x86\Debug\ModBusLib.dll
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.Login.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.MenuPrincipal.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.Properties.Resources.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.csproj.GenerateResource.Cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.csprojResolveAssemblyReference.cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.frmPackage.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\x86\Debug\UIF_EOLT.exe.config
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.exe
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.pdb
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\x86\Debug\UIF_EOLT.exe
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\x86\Debug\UIF_EOLT.pdb
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\bin\x86\Debug\ModBusLib.dll
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.frmPackage.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.Login.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.MenuPrincipal.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\UIF_EOLT.Properties.Resources.resources
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mariaribeiro\Desktop\preh duarte\UIF EOLT\UIF_EOLT\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\UIF EOLT 20131209\UIF_EOLT\bin\x86\Debug\UIF_EOLT.exe.config
+F:\UIF EOLT 20131209\UIF_EOLT\obj\x86\Debug\UIF_EOLT.exe
+F:\UIF EOLT 20131209\UIF_EOLT\obj\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\bin\x86\Debug\UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\bin\x86\Debug\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\bin\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\bin\x86\Debug\ModBusLib.dll
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.frmPackage.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.Login.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.MenuPrincipal.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.Properties.Resources.resources
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.csproj.GenerateResource.Cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\UIF EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.csprojResolveAssemblyReference.cache
+C:\Users\Duartefernandes.CONTROLAR\Desktop\DOREL EOLT\DOREL_EOLT\bin\x86\Debug\UIF_EOLT.exe.config
+C:\Users\Duartefernandes.CONTROLAR\Desktop\DOREL EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.exe
+C:\Users\Duartefernandes.CONTROLAR\Desktop\DOREL EOLT\DOREL_EOLT\obj\x86\Debug\UIF_EOLT.pdb
+C:\Users\Duartefernandes.CONTROLAR\Desktop\DOREL EOLT\DOREL_EOLT\bin\x86\Debug\DOREL_EOLT.exe.config

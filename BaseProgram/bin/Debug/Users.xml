@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<USERS>
+  <xs:schema id="USERS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="USERS" msdata:IsDataSet="true" msdata:Locale="en-US">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TableUsers">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID_User" type="xs:string" minOccurs="0" />
+                <xs:element name="Identification" type="xs:string" minOccurs="0" />
+                <xs:element name="Username" type="xs:string" minOccurs="0" />
+                <xs:element name="Psw" type="xs:string" minOccurs="0" />
+                <xs:element name="AccessMask" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TableUsers>
+    <ID_User>1</ID_User>
+    <Identification>Operador</Identification>
+    <Username>Operador</Username>
+    <Psw>1111</Psw>
+    <AccessMask>1</AccessMask>
+  </TableUsers> 
+  <TableUsers>
+    <ID_User>9</ID_User>
+    <Identification>Supervisao</Identification>
+    <Username>Manutencao</Username>
+    <Psw>9999</Psw>
+    <AccessMask>2</AccessMask>
+  </TableUsers>
+</USERS>

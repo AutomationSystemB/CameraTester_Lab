@@ -1,0 +1,17 @@
+bin\Debug\SoftwareMaquina.exe.config
+obj\Debug\SoftwareMaquina.exe
+obj\Debug\SoftwareMaquina.pdb
+bin\Debug\SoftwareMaquina.exe.manifest
+bin\Debug\SoftwareMaquina.application
+bin\Debug\SoftwareMaquina.exe
+bin\Debug\SoftwareMaquina.pdb
+bin\Debug\ModBusLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SoftwareMaquina.AboutBox.resources
+obj\Debug\SoftwareMaquina.AddModel.resources
+obj\Debug\SoftwareMaquina.MenuPrincipal.resources
+obj\Debug\SoftwareMaquina.Properties.Resources.resources
+obj\Debug\SoftwareMaquina.csproj.GenerateResource.Cache
+obj\Debug\SoftwareMaquina.TrustInfo.xml
+obj\Debug\SoftwareMaquina.exe.manifest
+obj\Debug\SoftwareMaquina.application

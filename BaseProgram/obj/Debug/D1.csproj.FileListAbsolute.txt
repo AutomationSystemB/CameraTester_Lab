@@ -1,0 +1,165 @@
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\Dispositivo_1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_1_19-04-12\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\Dispositivo_Molas\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas_29-08-12\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_30-08-12\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_03-09-12\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\D1_Molas_04-09-12\D1\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\bin\Debug\D1.exe.config
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\bin\Debug\D1.exe
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\bin\Debug\D1.pdb
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\D1.Login.resources
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\D1.MenuPrincipal.resources
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\D1.Properties.Resources.resources
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\D1.exe
+C:\Documents and Settings\adminprod\Ambiente de trabalho\D1_Molas_R2.1\D1\obj\Debug\D1.pdb
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\bin\Debug\D1.exe.config
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\bin\Debug\D1.exe
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\bin\Debug\D1.pdb
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\D1.Login.resources
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\D1.MenuPrincipal.resources
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\D1.Properties.Resources.resources
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\D1.exe
+C:\Documents and Settings\adminprod\Ambiente de trabalho\XNF_Rastreabilidade\D1_Molas_R2.1\D1\obj\Debug\D1.pdb
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\bin\Debug\D1.exe.config
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\bin\Debug\D1.exe
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\bin\Debug\D1.pdb
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.Login.resources
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.MenuPrincipal.resources
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.Properties.Resources.resources
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.exe
+C:\Documents and Settings\XPMUser\Ambiente de trabalho\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.pdb
+C:\Users\mariaribeiro\Desktop\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\bin\Debug\D1.exe.config
+C:\Users\mariaribeiro\Desktop\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.exe
+C:\Users\mariaribeiro\Desktop\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.2R\DispD1_CFinal_v2.2R\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\bin\Debug\D1.exe.config
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\bin\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\bin\Debug\D1.pdb
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\bin\Debug\ModBusLib.dll
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\D1.Login.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\D1.MenuPrincipal.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\D1.Properties.Resources.resources
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\ResGen.read.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\ResGen.write.1.tlog
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\D1.exe
+E:\Nova pasta (2)\Preh\12_ BMW XnF CS-4746\ACL\D1_Molas\DispD1_CFinal_v2.3R\D1\obj\Debug\D1.pdb

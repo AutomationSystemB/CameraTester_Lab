@@ -1,0 +1,12 @@
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\bin\Debug\BaseProgram.exe.config
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\bin\Debug\BaseProgram.exe
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\bin\Debug\BaseProgram.pdb
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\BaseProgram.Login.resources
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\BaseProgram.MenuPrincipal.resources
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\BaseProgram.Properties.Resources.resources
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\CameraTester.csproj.GenerateResource.cache
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\CameraTester.csproj.CoreCompileInputs.cache
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\CameraTester.csproj.CopyComplete
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\BaseProgram.exe
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\BaseProgram.pdb
+C:\Users\AmaroJoseCosta\Documents\100 - Controlar\1 - Projetos AS\38 - PRJ20.0560.2 - Camera Tester BM FZD21 CLAR - Structure for Lab\50 - Software\Camera_Tester\BaseProgram\obj\Debug\CameraTester.csprojAssemblyReference.cache

@@ -1,0 +1,101 @@
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\bin\Debug\OP10.exe.config
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\bin\Debug\OP10.exe
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\bin\Debug\OP10.pdb
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.exe
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.pdb
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.Login.resources
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.MenuPrincipal.resources
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.Login.resources
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.MenuPrincipal.resources
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.PopUp.resources
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.exe
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.pdb
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\OP10.exe.config
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\OP10.exe
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\OP10.pdb
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\log4net.dll
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\LogLibrary.dll
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\MES_HAI.dll
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\LogLibrary.pdb
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\MES_HAI.pdb
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\MES_HAI.xml
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\bin\Debug\MES_HAI.dll.config
+C:\Users\DuarteFernandes\Desktop\OP10\OP10\obj\Debug\OP10.csproj.CopyComplete
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.Login.resources
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.MenuPrincipal.resources
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.exe
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.pdb
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\bin\Debug\OP10.exe.config
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\bin\Debug\OP10.exe
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\bin\Debug\OP10.pdb
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10 V1\OP10\obj\Debug\OP10.csproj.CopyComplete
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.csproj.CopyComplete
+E:\op10\OP10\bin\Debug\OP10.exe.config
+E:\op10\OP10\bin\Debug\OP10.exe
+E:\op10\OP10\bin\Debug\OP10.pdb
+E:\op10\OP10\obj\Debug\OP10.Login.resources
+E:\op10\OP10\obj\Debug\OP10.MenuPrincipal.resources
+E:\op10\OP10\obj\Debug\OP10.Properties.Resources.resources
+E:\op10\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+E:\op10\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+E:\op10\OP10\obj\Debug\OP10.csproj.CopyComplete
+E:\op10\OP10\obj\Debug\OP10.exe
+E:\op10\OP10\obj\Debug\OP10.pdb
+E:\op10\OP10\obj\Debug\OP10.csprojAssemblyReference.cache
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\bin\Debug\OP10.exe.config
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\bin\Debug\OP10.exe
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\bin\Debug\OP10.pdb
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.csprojAssemblyReference.cache
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.Login.resources
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.MenuPrincipal.resources
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.csproj.CopyComplete
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.exe
+C:\Users\DuarteFernandes\Desktop\Software c#\OP10\obj\Debug\OP10.pdb
+C:\Users\filipesilva\Documents\Projectos\op10\Software c#\OP10\obj\Debug\OP10.csprojAssemblyReference.cache
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\bin\Debug\OP10.exe.config
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\bin\Debug\OP10.exe
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\bin\Debug\OP10.pdb
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.csprojAssemblyReference.cache
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.Login.resources
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.MenuPrincipal.resources
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.csproj.CopyComplete
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.exe
+C:\Users\DuarteFernandes\Desktop\20190408\OP10\OP10\obj\Debug\OP10.pdb
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\bin\Debug\OP10.exe.config
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\bin\Debug\OP10.exe
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\bin\Debug\OP10.pdb
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.csprojAssemblyReference.cache
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.Login.resources
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.MenuPrincipal.resources
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.csproj.CopyComplete
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.exe
+C:\Users\filipesilva\Desktop\Softwares\OP10\OP10\obj\Debug\OP10.pdb
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\bin\Debug\OP10.exe.config
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\bin\Debug\OP10.exe
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\bin\Debug\OP10.pdb
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.Login.resources
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.MenuPrincipal.resources
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.csproj.CopyComplete
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.exe
+C:\Users\filipesilva\OneDrive - Controlar Lda\Projectos\op10\Software c#\OP10\obj\Debug\OP10.pdb

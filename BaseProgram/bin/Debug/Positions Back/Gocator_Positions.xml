@@ -1,0 +1,131 @@
+<?xml version="1.0" standalone="yes"?>
+<PositionsSet>
+  <xs:schema id="PositionsSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="PositionsSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TableID" type="xs:string" minOccurs="0" />
+                <xs:element name="Parameter" type="xs:string" minOccurs="0" />
+                <xs:element name="X" type="xs:string" minOccurs="0" />
+				<xs:element name="X1" type="xs:string" minOccurs="0" />
+                <xs:element name="Y" type="xs:string" minOccurs="0" />
+                <xs:element name="Z" type="xs:string" minOccurs="0" />
+				<xs:element name="Min" type="xs:string" minOccurs="0" />
+                <xs:element name="Max" type="xs:string" minOccurs="0" />
+                <xs:element name="Description" type="xs:string" minOccurs="0" />
+                <xs:element name="TinyRefs" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  
+  <Table>
+    <TableID>1</TableID>
+    <Parameter>Position1</Parameter>
+    <X>10</X>
+    <X1>10</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 1 de inspeccao da pasta termica na TABELA 1 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+ </Table>
+ <Table>
+    <TableID>1</TableID>
+    <Parameter>Position2</Parameter>
+    <X>10</X>
+    <X1>70</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 2 de inspeccao da pasta termica na TABELA 1 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+   
+  
+ <Table>
+    <TableID>2</TableID>
+    <Parameter>Position1</Parameter>
+    <X>10</X>
+    <X1>10</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 1 de inspeccao da pasta termica na TABELA 2 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+ </Table>
+ <Table>
+    <TableID>2</TableID>
+    <Parameter>Position2</Parameter>
+    <X>10</X>
+    <X1>70</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 2 de inspeccao da pasta termica na TABELA 2 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  
+  
+  <Table>
+    <TableID>3</TableID>
+    <Parameter>Position1</Parameter>
+    <X>10</X>
+    <X1>10</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 1 de inspeccao da pasta termica na TABELA 3 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+ </Table>
+ <Table>
+    <TableID>3</TableID>
+    <Parameter>Position2</Parameter>
+    <X>10</X>
+    <X1>70</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 2 de inspeccao da pasta termica na TABELA 3 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+  
+  
+  <Table>
+    <TableID>4</TableID>
+    <Parameter>Position1</Parameter>
+    <X>10</X>
+    <X1>10</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 1 de inspeccao da pasta termica na TABELA 4 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+ </Table>
+ <Table>
+    <TableID>4</TableID>
+    <Parameter>Position2</Parameter>
+    <X>10</X>
+    <X1>70</X1>
+    <Y>280</Y>
+    <Z>0</Z>
+    <Min>30</Min>
+    <Max>100</Max>
+    <Description>Posicao 2 de inspeccao da pasta termica na TABELA 4 - Gocator</Description>
+    <TinyRefs>ALL</TinyRefs>
+  </Table>
+ 
+ </PositionsSet>

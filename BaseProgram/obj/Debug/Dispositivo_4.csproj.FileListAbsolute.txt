@@ -1,0 +1,54 @@
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\bin\Debug\Dispositivo_4.exe.config
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\bin\Debug\Dispositivo_4.exe
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\bin\Debug\Dispositivo_4.pdb
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\bin\Debug\ModBusLib.dll
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\ResolveAssemblyReference.cache
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\Dispositivo_4.Login.resources
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\Dispositivo_4.MenuPrincipal.resources
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\Dispositivo_4.Properties.Resources.resources
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\Dispositivo_4.exe
+C:\Testes\C#.NET\_CD391\Dispositivos\Dispositivo 4\Dispositivo_4\obj\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\Sony CD391\Dispositivo 4\Dispositivo_4\bin\Debug\Dispositivo_4.exe.config
+C:\Users\ruiferreira\Desktop\Preh\Sony CD391\Dispositivo 4\Dispositivo_4\obj\Debug\Dispositivo_4.exe
+C:\Users\ruiferreira\Desktop\Preh\Sony CD391\Dispositivo 4\Dispositivo_4\obj\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\bin\Debug\Dispositivo_4.exe.config
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\bin\Debug\Dispositivo_4.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\bin\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.Login.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1\Dispositivo_4\obj\Debug\ResGen.write.1.tlog
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\bin\Debug\Dispositivo_4.exe.config
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.exe
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.pdb
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.Login.resources
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.MenuPrincipal.resources
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\Dispositivo_4.Properties.Resources.resources
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\ResGen.read.1.tlog
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\obj\Debug\ResGen.write.1.tlog
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\bin\Debug\Dispositivo_4.exe
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\bin\Debug\Dispositivo_4.pdb
+C:\Users\mariafelix\Desktop\Dispositivo_1\Dispositivo_4\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\bin\Debug\Dispositivo_4.exe.config
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\Dispositivo_4.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\bin\Debug\Dispositivo_4.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\bin\Debug\Dispositivo_4.pdb
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\bin\Debug\ModBusLib.dll
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\Dispositivo_4.Login.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\Dispositivo_4.MenuPrincipal.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\Dispositivo_4.Properties.Resources.resources
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\ResGen.read.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\ResGen.write.1.tlog
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\bin\Debug\Dispositivo_1.exe.config
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\Dispositivo_1.exe
+C:\Users\ruiferreira\Desktop\Preh\SonyC520\Nova pasta\Dispositivo_1_02.04\Dispositivo_4\obj\Debug\Dispositivo_1.pdb

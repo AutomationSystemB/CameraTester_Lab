@@ -1,0 +1,15 @@
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\bin\Debug\Dispositivo_540.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\bin\Debug\Dispositivo_540.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\bin\Debug\Dispositivo_540.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\bin\Debug\ModBusLib.dll
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\Dispositivo_540.Login.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\Dispositivo_540.MenuPrincipal.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\Dispositivo_540.Properties.Resources.resources
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\Dispositivo_540.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_540\Dispositivo_540\obj\Debug\Dispositivo_540.pdb
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\bin\Debug\Dispositivo_540.exe.config
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_540.exe
+C:\Documents and Settings\duartefernandes\Ambiente de trabalho\CD391\Dispositivo_580\Dispositivo_580\obj\Debug\Dispositivo_540.pdb
